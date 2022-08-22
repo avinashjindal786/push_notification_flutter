@@ -44,16 +44,3 @@ Join the wonderful community for continous and all time support with your Flutte
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 * A little knowledge of Programming
 * A brain to think 🤓🤓
-
-## 🤓 Author(s)
-**Karan Kharode** [Youtube](https://www.youtube.com/c/ProgrammingwithKaranKharode)
-
-
-### Created & Maintained By
-
-[Karan Kharode](https://github.com/karankharode) ([@KaranKharode](https://www.twitter.com/KaranKharode)) ([YouTube](https://www.youtube.com/c/ProgrammingwithKaranKharode))
-([Instagram](https://www.instagram.com/karan_kharode))
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->     
-> - [Razorpay](https://rzp.io/l/PuLyou2cv)
